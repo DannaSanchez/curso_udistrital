@@ -1,0 +1,14 @@
+body {
+    font-size: 35px;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+}
+
+.enlace_amarillo {
+    color: yellow;
+}
+
+.enlace_morado {
+    color: purple;
+}

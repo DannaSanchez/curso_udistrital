@@ -1,0 +1,33 @@
+p {
+    font-size: 20px;
+    line-height: 33px;
+}
+
+.uno {
+    color: green;
+}
+
+.uno,.sexto {
+    text-decoration: underline;
+}
+
+.dos,.sexto {
+    color: red;
+    font-weight: 600;
+}
+
+.tres {
+    text-decoration: overline underline;
+}
+
+.cuatro {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.quinto {
+    color: blue;
+    font-weight: 600;
+}
+    

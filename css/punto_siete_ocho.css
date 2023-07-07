@@ -1,0 +1,19 @@
+nav {
+    width: 600px;
+    background-color: plum;
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+a {
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+a:hover {
+    background-color: blue;
+}

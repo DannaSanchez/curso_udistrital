@@ -1,0 +1,19 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.azul {
+    color: blue;
+}
+
+.rojo {
+    color: red;
+    margin: -50px;
+}
+
+.caja {
+    display: grid;
+    place-items: center;
+}
